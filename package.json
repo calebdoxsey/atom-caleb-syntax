@@ -1,5 +1,5 @@
 {
-  "name": "caleb-syntax",
+  "name": "atom-caleb-syntax",
   "theme": "syntax",
   "version": "1.0.0",
   "description": "A minimal, light color scheme",
@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/caleb-syntax",
+  "repository": "https://github.com/calebdoxsey/atom-caleb-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

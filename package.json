@@ -1,0 +1,15 @@
+{
+  "name": "caleb-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A minimal, light color scheme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/caleb-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
